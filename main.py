@@ -54,7 +54,7 @@ def equalpress():
 	# by the except block
 	except:
 
-		equation.set(" error ")
+		equation.set(" error is occured ")
 		expression = ""
 
 
